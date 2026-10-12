@@ -1,0 +1,163 @@
+{
+  "default-category-0": {
+    "Work": "工作"
+  },
+  "default-category-1": {
+    "Workout": "锻炼"
+  },
+  "default-category-2": {
+    "Relax": "休闲"
+  },
+  "default-category-3": {
+    "Study": "学习"
+  },
+  "default-category-4": {
+    "Chores": "家务"
+  },
+  "sample-work-0": {
+    "Project Beacon — customer portal": "灯塔项目 — 客户门户"
+  },
+  "sample-work-0-task-0": {
+    "Sketch the dashboard": "绘制仪表盘草图"
+  },
+  "sample-work-0-task-1": {
+    "Write the onboarding checklist": "编写新用户引导清单"
+  },
+  "sample-work-1": {
+    "Project Atlas — team knowledge base": "图谱项目 — 团队知识库"
+  },
+  "sample-work-1-task-0": {
+    "Map the documentation sections": "梳理文档栏目"
+  },
+  "sample-work-1-task-1": {
+    "Draft the search requirements": "起草搜索功能需求"
+  },
+  "sample-work-2": {
+    "Project Willow — launch campaign": "青柳项目 — 产品推广"
+  },
+  "sample-work-2-task-0": {
+    "Prepare the creative brief": "准备创意简报"
+  },
+  "sample-work-2-task-1": {
+    "Plan the launch email": "策划发布邮件"
+  },
+  "sample-workout-0": {
+    "Strength": "力量训练"
+  },
+  "sample-workout-0-task-0": {
+    "Plan a full-body session": "安排一次全身力量训练"
+  },
+  "sample-workout-1": {
+    "Cardio": "有氧运动"
+  },
+  "sample-workout-1-task-0": {
+    "Take a 30-minute walk": "散步 30 分钟"
+  },
+  "sample-relax-0": {
+    "Reading": "阅读"
+  },
+  "sample-relax-0-task-0": {
+    "Choose a weekend novel": "挑选一本周末读的小说"
+  },
+  "sample-relax-1": {
+    "Music": "音乐"
+  },
+  "sample-relax-1-task-0": {
+    "Make a relaxing playlist": "制作放松歌单"
+  },
+  "sample-study-0": {
+    "Finance": "金融"
+  },
+  "sample-study-0-task-0": {
+    "Review compound interest": "复习复利知识"
+  },
+  "sample-study-1": {
+    "Word": "Word 文档"
+  },
+  "sample-study-1-task-0": {
+    "Practice document formatting": "练习文档排版"
+  },
+  "sample-study-2": {
+    "Politics": "政治"
+  },
+  "sample-study-2-task-0": {
+    "Compare electoral systems": "比较不同选举制度"
+  },
+  "sample-chores-0": {
+    "Home": "居家"
+  },
+  "sample-chores-0-task-0": {
+    "Tidy the desk": "整理书桌"
+  },
+  "sample-chores-1": {
+    "Errands": "日常杂务"
+  },
+  "sample-chores-1-task-0": {
+    "Write the grocery list": "列购物清单"
+  },
+  "default-work": {
+    "Work": "工作"
+  },
+  "default-workout": {
+    "Workout": "锻炼"
+  },
+  "default-relax": {
+    "Relax": "休闲"
+  },
+  "default-study": {
+    "Study": "学习"
+  },
+  "default-chores": {
+    "Chores": "家务"
+  },
+  "sample-plan-0": {
+    "Project Beacon: discovery plan": "灯塔项目：需求调研计划",
+    "Outline customer interviews, summarize needs, and agree on the first release scope.": "拟定客户访谈提纲、总结需求，并确定首个版本的范围。",
+    "project beacon": "灯塔项目"
+  },
+  "sample-plan-1": {
+    "Project Beacon: sprint plan": "灯塔项目：迭代计划",
+    "Break the dashboard into small milestones: wireframes, prototype, usability review.": "将仪表盘拆成小里程碑：线框图、原型和可用性评审。",
+    "project beacon": "灯塔项目"
+  },
+  "sample-plan-2": {
+    "Project Atlas: documentation roadmap": "图谱项目：文档规划",
+    "Inventory existing guides, define ownership, and prepare a searchable starter library.": "盘点现有指南、明确负责人，搭建可搜索的初始知识库。",
+    "project atlas": "图谱项目"
+  },
+  "sample-plan-3": {
+    "Project Atlas: research plan": "图谱项目：研究计划",
+    "Compare navigation patterns and test three search journeys with teammates.": "比较导航方式，与同事一起测试三条搜索路径。",
+    "project atlas": "图谱项目"
+  },
+  "sample-plan-4": {
+    "Project Willow: launch plan": "青柳项目：发布计划",
+    "Prepare the creative brief, launch checklist, and follow-up email sequence.": "准备创意简报、发布清单和后续邮件流程。",
+    "project willow": "青柳项目"
+  },
+  "sample-plan-5": {
+    "Quarterly team planning": "团队季度规划",
+    "Set three outcomes, estimate capacity, and schedule a monthly review.": "确定三个目标、估算团队产能，并安排每月复盘。",
+    "team": "团队"
+  },
+  "sample-plan-6": {
+    "A balanced weekly routine": "均衡的一周运动安排",
+    "Alternate strength, light cardio, and recovery days.": "交替安排力量训练、轻度有氧和恢复日。",
+    "strength": "力量训练"
+  },
+  "sample-plan-7": {
+    "A screen-free weekend": "远离屏幕的周末",
+    "Leave room for a novel, music, and a quiet walk.": "为小说、音乐和安静的散步留出时间。",
+    "reading": "阅读"
+  },
+  "sample-plan-8": {
+    "A three-subject learning plan": "三个主题的学习计划",
+    "Rotate finance basics, Word document skills, and an introduction to political systems.": "轮流学习金融基础、Word 文档技能和政治制度入门。",
+    "finance / word / politics": "金融 / Word 文档 / 政治"
+  },
+  "sample-plan-9": {
+    "A simple home reset": "轻松整理居家环境",
+    "Split tidying, laundry, and errands into manageable weekly steps.": "将整理、洗衣和跑腿拆成每周容易完成的小步骤。",
+    "home": "居家"
+  }
+}
