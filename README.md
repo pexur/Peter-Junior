@@ -102,18 +102,6 @@ Keep real tokens out of source files and public setup instructions. Provide conn
 - `worker/`: Worker entry and access checks.
 - `tests/`: task, planning, timeline, voice, and public starter checks.
 
-## Publish with fresh Git history
-
-This directory contains no `.git` folder, private runtime files, database snapshots, uploads, or original project identity. Because it may be nested inside another repository, copy **only this directory's source files** to a separate directory outside the original repository before initializing Git:
-
-```sh
-git init
-git add .
-git commit -m "Initial public release"
-```
-
-The included `.gitignore` excludes local runtime data, dependencies, build output, and environment secrets. Publish the new repository, not the parent project's repository or commit history.
-
 ## License
 
 [MIT](LICENSE).

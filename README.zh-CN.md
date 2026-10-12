@@ -111,18 +111,6 @@ npx tsc --noEmit --incremental false
 
 两种语言使用同一套数据与相同的条目 ID。新增界面词条时，请同时更新 `app/i18n/zh.json`。技术协议名称、JSON 字段和模型名称保持原样。
 
-## 以全新的 Git 历史发布
-
-此目录不包含原项目的 Git 历史、私人运行数据或原项目身份。发布前，将本目录的源码单独复制到原仓库之外的新目录，然后运行：
-
-```sh
-git init
-git add .
-git commit -m "Initial public release"
-```
-
-`.gitignore` 会排除依赖、构建产物、本地运行数据与环境密钥。请发布新仓库，不要发布原项目仓库或其提交历史。
-
 ## 许可证
 
 [MIT](LICENSE)。
